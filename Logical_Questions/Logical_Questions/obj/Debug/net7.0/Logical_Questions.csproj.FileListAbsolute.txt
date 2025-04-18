@@ -1,0 +1,15 @@
+D:\SOFTWARE ALL\Visual studio\Practice\GitHub_clone\Logical_Questions\Logical_Questions\bin\Debug\net7.0\Logical_Questions.exe
+D:\SOFTWARE ALL\Visual studio\Practice\GitHub_clone\Logical_Questions\Logical_Questions\bin\Debug\net7.0\Logical_Questions.deps.json
+D:\SOFTWARE ALL\Visual studio\Practice\GitHub_clone\Logical_Questions\Logical_Questions\bin\Debug\net7.0\Logical_Questions.runtimeconfig.json
+D:\SOFTWARE ALL\Visual studio\Practice\GitHub_clone\Logical_Questions\Logical_Questions\bin\Debug\net7.0\Logical_Questions.dll
+D:\SOFTWARE ALL\Visual studio\Practice\GitHub_clone\Logical_Questions\Logical_Questions\bin\Debug\net7.0\Logical_Questions.pdb
+D:\SOFTWARE ALL\Visual studio\Practice\GitHub_clone\Logical_Questions\Logical_Questions\obj\Debug\net7.0\Logical_Questions.csproj.AssemblyReference.cache
+D:\SOFTWARE ALL\Visual studio\Practice\GitHub_clone\Logical_Questions\Logical_Questions\obj\Debug\net7.0\Logical_Questions.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOFTWARE ALL\Visual studio\Practice\GitHub_clone\Logical_Questions\Logical_Questions\obj\Debug\net7.0\Logical_Questions.AssemblyInfoInputs.cache
+D:\SOFTWARE ALL\Visual studio\Practice\GitHub_clone\Logical_Questions\Logical_Questions\obj\Debug\net7.0\Logical_Questions.AssemblyInfo.cs
+D:\SOFTWARE ALL\Visual studio\Practice\GitHub_clone\Logical_Questions\Logical_Questions\obj\Debug\net7.0\Logical_Questions.csproj.CoreCompileInputs.cache
+D:\SOFTWARE ALL\Visual studio\Practice\GitHub_clone\Logical_Questions\Logical_Questions\obj\Debug\net7.0\Logical_Questions.dll
+D:\SOFTWARE ALL\Visual studio\Practice\GitHub_clone\Logical_Questions\Logical_Questions\obj\Debug\net7.0\refint\Logical_Questions.dll
+D:\SOFTWARE ALL\Visual studio\Practice\GitHub_clone\Logical_Questions\Logical_Questions\obj\Debug\net7.0\Logical_Questions.pdb
+D:\SOFTWARE ALL\Visual studio\Practice\GitHub_clone\Logical_Questions\Logical_Questions\obj\Debug\net7.0\Logical_Questions.genruntimeconfig.cache
+D:\SOFTWARE ALL\Visual studio\Practice\GitHub_clone\Logical_Questions\Logical_Questions\obj\Debug\net7.0\ref\Logical_Questions.dll
